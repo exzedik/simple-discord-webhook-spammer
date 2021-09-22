@@ -1,2 +1,2 @@
-# simple-discord-webhook-spammer
-Simple Discord Webhook spammer made in Python 3
+# Simple Discord Webhook spammer
+Discord webhook spammer made in <10 minutes.
